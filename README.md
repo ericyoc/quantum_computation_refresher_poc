@@ -1,7 +1,7 @@
 # Quantum Computation Refresher
 
 ## Refresher Description
-This refresher provides a comprehensive refresher on the fundamental concepts and principles of quantum computation. It covers a wide range of topics, from the mathematical foundations to the practical applications of quantum algorithms and circuits. The refresher aims to equip you with a solid understanding of quantum computing concepts and their implementation using popular quantum computing frameworks such as Cirq (Google).
+This refresher provides a comprehensive review on the fundamental concepts and principles of quantum computation. It covers a wide range of topics, from the mathematical foundations to the practical applications of quantum algorithms and circuits. The refresher aims to equip you with a solid understanding of quantum computing concepts and their implementation using popular quantum computing frameworks such as Cirq (Google).
 
 ## Course Objectives
 By the end of this refresher, you will be able to:
