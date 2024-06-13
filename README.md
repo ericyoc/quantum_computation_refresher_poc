@@ -3,8 +3,10 @@
 ## Refresher Description
 This refresher provides a comprehensive review on the fundamental concepts and principles of quantum computation. It covers a wide range of topics, from the mathematical foundations to the practical applications of quantum algorithms and circuits. The refresher aims to equip you with a solid understanding of quantum computing concepts and their implementation using popular quantum computing frameworks such as Cirq (Google).
 
-## Motivating Materials
-Quantum Computing Course - Math and Theory https://www.youtube.com/watch?v=tsbCSkvHhMo
+## Relevant Materials
+Quantum Computation and Theory [Youtube] https://www.youtube.com/watch?v=tsbCSkvHhMo
+
+Quantum Mechanices: Mathematical Basis [Youtube] https://www.youtube.com/playlist?list=PLdgVBOaXkb9Bv466YnyxslT4gIlSZdtjw
 
 ## Course Objectives
 By the end of this refresher, you will be able to:
