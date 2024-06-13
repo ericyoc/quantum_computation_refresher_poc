@@ -40,9 +40,7 @@ By the end of this refresher, you will be able to:
    - Shor's algorithm for factoring
 
 5. **Quantum-Classical Integration**
-   - Integrating quantum circuits with classical neural networks
-   - Quantum feature extraction
-   - Quantum-enhanced machine learning
+   - Integrating quantum circuit with classical neural network
 
 6. **Practical Application**
    - Implementing quantum circuits using Cirq
