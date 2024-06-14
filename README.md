@@ -48,7 +48,7 @@ By the end of this refresher, you will be able to:
 
 ## Connecting Quantum Computation Concepts
 
-Here's the list of connections among the quantum computation concepts, with those topics in ***bold italics*** to denote a topic not covered in the refresher but listed here due to the importance of the topic within quantuam computing:
+Here's the list of connections among the quantum computation concepts, with those topics in <ins>***bold italics underlined***</ins> to denote a topic not covered in the refresher but listed here due to the importance of the topic within quantuam computing:
 
 1. **Imaginary Numbers** are the building blocks of **Complex Numbers**, which are a combination of real and imaginary numbers in the form a + bi.
 
@@ -82,7 +82,7 @@ Here's the list of connections among the quantum computation concepts, with thos
 
 16. **Eigenvectors and Eigenvalues** are concepts associated with matrices, where an eigenvector, when acted upon by a matrix, yields a scalar multiple of itself, with the scalar being the eigenvalue.
 
-17. ***Outer Product*** *is an operation between two vectors that results in a matrix, and it is used in quantum computing to construct quantum gates and density matrices.*
+17. <ins>***Outer Product***</ins> *is an operation between two vectors that results in a matrix, and it is used in quantum computing to construct quantum gates and density matrices.*
 
 18. **Matrices** are used to represent **Single Qubits in Dirac Notation**, where a qubit state is described using ket notation |⟩.
 
@@ -106,7 +106,7 @@ Here's the list of connections among the quantum computation concepts, with thos
 
 28. The **Inverse of Phase Gates** can be applied to cancel out the phase shifts introduced by the original phase gates.
 
-29. ***Rotation Gates***, *such as RX, RY, and RZ, are used to perform arbitrary rotations of qubit states around the X, Y, and Z axes of the Bloch Sphere.*
+29. <ins>***Rotation Gates***</ins>, *such as RX, RY, and RZ, are used to perform arbitrary rotations of qubit states around the X, Y, and Z axes of the Bloch Sphere.*
 
 30. **Multiple Qubits** can be combined using the **Tensor Product**, allowing for the representation of multi-qubit states.
 
@@ -120,17 +120,17 @@ Here's the list of connections among the quantum computation concepts, with thos
 
 35. **Superdense Coding** is a quantum communication protocol that leverages entanglement to transmit two classical bits of information using a single qubit.
 
-36. ***Quantum Teleportation*** *is a quantum communication protocol that uses entanglement to transfer the state of a qubit from one location to another without physically transmitting the qubit itself.*
+36. <ins>***Quantum Teleportation***</ins> *is a quantum communication protocol that uses entanglement to transfer the state of a qubit from one location to another without physically transmitting the qubit itself.*
 
 37. **Classical Logical Operations**, such as NOT, AND, OR, and XOR, can be implemented using quantum gates in a quantum circuit.
 
 38. **Quantum Circuits** are composed of quantum gates and measurements, allowing for the implementation of **Quantum Algorithms** and **Applications**, such as quantum search, optimization, and machine learning.
 
-39. ***Quantum Fourier Transform (QFT)*** *is a fundamental quantum algorithm that performs a Fourier transform on the amplitudes of a quantum state, enabling applications such as period finding and quantum phase estimation.*
+39. <ins>***Quantum Fourier Transform (QFT)***</ins> *is a fundamental quantum algorithm that performs a Fourier transform on the amplitudes of a quantum state, enabling applications such as period finding and quantum phase estimation.*
 
-40. ***Quantum Error Correction*** *is a set of techniques used to protect quantum information from errors caused by decoherence and other noise sources, ensuring the reliability of quantum computations.*
+40. <ins>***Quantum Error Correction***</ins> *is a set of techniques used to protect quantum information from errors caused by decoherence and other noise sources, ensuring the reliability of quantum computations.*
 
-These additional topics provide a more comprehensive coverage of the essential concepts in quantum computing, including important quantum gates, algorithms, and error correction techniques.
+The additional topics are now clearly marked with both bold italics and underline, making them easily distinguishable from the original list of connections between quantum computing concepts.
 
 By understanding how each concept builds upon the previous ones, you can gain a comprehensive understanding of the foundations and applications of quantum computing.
 
