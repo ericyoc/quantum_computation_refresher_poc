@@ -48,7 +48,7 @@ By the end of this refresher, you will be able to:
 
 ## Connecting Quantum Computation Concepts
 
-Here's the list of connections among the quantum computation concepts, with missing topics added in ***bold italics***:
+Here's the list of connections among the quantum computation concepts, with those topics in ***bold italics*** to denote topics not covered in the refresher but listed here due to the topics importance within this domain:
 
 1. **Imaginary Numbers** are the building blocks of **Complex Numbers**, which are a combination of real and imaginary numbers in the form a + bi.
 
