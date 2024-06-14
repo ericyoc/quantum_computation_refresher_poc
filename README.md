@@ -58,8 +58,9 @@ By the end of this refresher, you will be able to:
 ## Refresher Resources
 - Cirq Documentation: https://quantumai.google/cirq
 - TensorFlow Documentation: https://www.tensorflow.org/
-- Quantum Computation and Theory [Youtube] https://www.youtube.com/watch?v=tsbCSkvHhMo
-- Quantum Mechanices: Mathematical Basis [Youtube] https://www.youtube.com/playlist?list=PLdgVBOaXkb9Bv466YnyxslT4gIlSZdtjw
+- Quantum Computation and Theory [YouTube] https://www.youtube.com/watch?v=tsbCSkvHhMo
+- Quantum Mechanices: Mathematical Basis [YouTube] https://www.youtube.com/playlist?list=PLdgVBOaXkb9Bv466YnyxslT4gIlSZdtjw
+- The Map of Quantum Computing - Quantum Computing Explained [YouTube] https://www.youtube.com/watch?v=-UlxHPIEVqA
 
 ## Disclaimer
 This material is for educational purposes only.
