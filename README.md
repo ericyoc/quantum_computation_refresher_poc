@@ -46,9 +46,9 @@ By the end of this refresher, you will be able to:
    - Implementing quantum circuits using Cirq
    - Quantum simulation
 
-## Connecting Quantum Computing Concepts
+## Connecting Quantum Computation Concepts
 
-1. **Imaginary Numbers** are the building blocks of **Complex Numbers**, which are a combination of real and imaginary numbers in the form a + bi.
+1. **Imaginary Numbers** are the building blocks of **Complex Numbers**, which are a combination of real and imaginary numbers in the form a + bi.  
 
 2. **Complex Numbers** enable various **Operations**, such as addition and multiplication, which follow specific rules in the complex domain.
 
