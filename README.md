@@ -48,7 +48,9 @@ By the end of this refresher, you will be able to:
 
 ## Connecting Quantum Computation Concepts
 
-1. **Imaginary Numbers** are the building blocks of **Complex Numbers**, which are a combination of real and imaginary numbers in the form a + bi.  
+Here's the list of connections among the quantum computation concepts, with missing topics added in ***bold italics***:
+
+1. **Imaginary Numbers** are the building blocks of **Complex Numbers**, which are a combination of real and imaginary numbers in the form a + bi.
 
 2. **Complex Numbers** enable various **Operations**, such as addition and multiplication, which follow specific rules in the complex domain.
 
@@ -80,43 +82,55 @@ By the end of this refresher, you will be able to:
 
 16. **Eigenvectors and Eigenvalues** are concepts associated with matrices, where an eigenvector, when acted upon by a matrix, yields a scalar multiple of itself, with the scalar being the eigenvalue.
 
-17. **Matrices** are used to represent **Single Qubits in Dirac Notation**, where a qubit state is described using ket notation |⟩.
+17. ***Outer Product*** *is an operation between two vectors that results in a matrix, and it is used in quantum computing to construct quantum gates and density matrices.*
 
-18. **Single Qubits** can exist in a **Superposition** of multiple states, allowing them to represent a linear combination of basis states.
+18. **Matrices** are used to represent **Single Qubits in Dirac Notation**, where a qubit state is described using ket notation |⟩.
 
-19. **Measurement of a Quantum System** collapses the superposition of a qubit into a definite state, with probabilities determined by the amplitudes of the states.
+19. **Single Qubits** can exist in a **Superposition** of multiple states, allowing them to represent a linear combination of basis states.
 
-20. The **Probability of Measuring a Qubit** in a particular state is related to the amplitudes of the qubit's superposition.
+20. **Measurement of a Quantum System** collapses the superposition of a qubit into a definite state, with probabilities determined by the amplitudes of the states.
 
-21. **Matrix Notation** can be converted into **Dirac Notation** to represent qubit states and operations.
+21. The **Probability of Measuring a Qubit** in a particular state is related to the amplitudes of the qubit's superposition.
 
-22. The **Bloch Sphere** is a geometric representation of a single qubit state, with points on the surface corresponding to pure states and points inside representing mixed states.
+22. **Matrix Notation** can be converted into **Dirac Notation** to represent qubit states and operations.
 
-23. **Qubit Gates**, such as X, Y, and Z gates, are unitary operations that manipulate the qubit states on the Bloch Sphere.
+23. The **Bloch Sphere** is a geometric representation of a single qubit state, with points on the surface corresponding to pure states and points inside representing mixed states.
 
-24. When applying quantum gates, the **Global Phase** can be discarded, and only the **Relative Phase** between qubit states is considered.
+24. **Qubit Gates**, such as X, Y, and Z gates, are unitary operations that manipulate the qubit states on the Bloch Sphere.
 
-25. The **Hadamard Gate** is a special qubit gate that creates an equal superposition of basis states.
+25. When applying quantum gates, the **Global Phase** can be discarded, and only the **Relative Phase** between qubit states is considered.
 
-26. **Phase Gates**, such as the S and T gates, introduce phase shifts to qubit states.
+26. The **Hadamard Gate** is a special qubit gate that creates an equal superposition of basis states.
 
-27. The **Inverse of Phase Gates** can be applied to cancel out the phase shifts introduced by the original phase gates.
+27. **Phase Gates**, such as the S and T gates, introduce phase shifts to qubit states.
 
-28. **Multiple Qubits** can be combined using the **Tensor Product**, allowing for the representation of multi-qubit states.
+28. The **Inverse of Phase Gates** can be applied to cancel out the phase shifts introduced by the original phase gates.
 
-29. **Multiple Qubit Gates**, such as CNOT, Toffoli, and Controlled Gates, operate on multiple qubits simultaneously, enabling entanglement and conditional operations.
+29. ***Rotation Gates***, *such as RX, RY, and RZ, are used to perform arbitrary rotations of qubit states around the X, Y, and Z axes of the Bloch Sphere.*
 
-30. **Entanglement** is a quantum phenomenon where multiple qubits become correlated, such that the state of one qubit cannot be described independently of the others.
+30. **Multiple Qubits** can be combined using the **Tensor Product**, allowing for the representation of multi-qubit states.
 
-31. **Two Qubit Bell States** are specific entangled states that form the basis for quantum communication and cryptography protocols.
+31. **Multiple Qubit Gates**, such as CNOT, Toffoli, and Controlled Gates, operate on multiple qubits simultaneously, enabling entanglement and conditional operations.
 
-32. **Phase Kickback** is a quantum phenomenon where the phase of a controlled qubit is kicked back to the control qubit, enabling certain quantum algorithms.
+32. **Entanglement** is a quantum phenomenon where multiple qubits become correlated, such that the state of one qubit cannot be described independently of the others.
 
-33. **Superdense Coding** is a quantum communication protocol that leverages entanglement to transmit two classical bits of information using a single qubit.
+33. **Two Qubit Bell States** are specific entangled states that form the basis for quantum communication and cryptography protocols.
 
-34. **Classical Logical Operations**, such as NOT, AND, OR, and XOR, can be implemented using quantum gates in a quantum circuit.
+34. **Phase Kickback** is a quantum phenomenon where the phase of a controlled qubit is kicked back to the control qubit, enabling certain quantum algorithms.
 
-35. **Quantum Circuits** are composed of quantum gates and measurements, allowing for the implementation of **Quantum Algorithms** and **Applications**, such as quantum search, optimization, and machine learning.
+35. **Superdense Coding** is a quantum communication protocol that leverages entanglement to transmit two classical bits of information using a single qubit.
+
+36. ***Quantum Teleportation*** *is a quantum communication protocol that uses entanglement to transfer the state of a qubit from one location to another without physically transmitting the qubit itself.*
+
+37. **Classical Logical Operations**, such as NOT, AND, OR, and XOR, can be implemented using quantum gates in a quantum circuit.
+
+38. **Quantum Circuits** are composed of quantum gates and measurements, allowing for the implementation of **Quantum Algorithms** and **Applications**, such as quantum search, optimization, and machine learning.
+
+39. ***Quantum Fourier Transform (QFT)*** *is a fundamental quantum algorithm that performs a Fourier transform on the amplitudes of a quantum state, enabling applications such as period finding and quantum phase estimation.*
+
+40. ***Quantum Error Correction*** *is a set of techniques used to protect quantum information from errors caused by decoherence and other noise sources, ensuring the reliability of quantum computations.*
+
+These additional topics provide a more comprehensive coverage of the essential concepts in quantum computing, including important quantum gates, algorithms, and error correction techniques.
 
 By understanding how each concept builds upon the previous ones, you can gain a comprehensive understanding of the foundations and applications of quantum computing.
 
