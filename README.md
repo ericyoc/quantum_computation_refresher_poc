@@ -130,8 +130,6 @@ Here's the list of connections among the quantum computation concepts, with thos
 
 40. <ins>***Quantum Error Correction***</ins> *is a set of techniques used to protect quantum information from errors caused by decoherence and other noise sources, ensuring the reliability of quantum computations.*
 
-The additional topics are now clearly marked with both bold italics and underline, making them easily distinguishable from the original list of connections between quantum computing concepts.
-
 By understanding how each concept builds upon the previous ones, you can gain a comprehensive understanding of the foundations and applications of quantum computing.
 
 ## Refresher Materials
