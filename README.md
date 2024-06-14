@@ -148,5 +148,76 @@ By understanding how each concept builds upon the previous ones, you can gain a 
 - Quantum Mechanices: Mathematical Basis [YouTube] https://www.youtube.com/playlist?list=PLdgVBOaXkb9Bv466YnyxslT4gIlSZdtjw
 - The Map of Quantum Computing - Quantum Computing Explained [YouTube] https://www.youtube.com/watch?v=-UlxHPIEVqA
 
+## Chronological Listing of Notable Quantum Computers (As of June 14, 2024)
+The field of quantum computing is rapidly evolving, with new advancements and larger qubit counts being announced regularly. In addition, the performance of quantum computers is not solely determined by the number of qubits, but also by factors such as qubit connectivity, gate fidelity, and error correction techniques
+
+1. **D-Wave One** (2011)
+   - Manufacturer: D-Wave Systems
+   - Qubits: 128
+
+2. **IBM Q System One** (2017)
+   - Manufacturer: IBM
+   - Qubits: 20
+
+3. **Intel 49-Qubit Chip** (2018)
+   - Manufacturer: Intel
+   - Qubits: 49
+
+4. **Rigetti 19Q** (2018)
+   - Manufacturer: Rigetti Computing
+   - Qubits: 19
+
+5. **Google Bristlecone** (2018)
+   - Manufacturer: Google
+   - Qubits: 72
+
+6. **IBM Q System One** (2019, updated)
+   - Manufacturer: IBM
+   - Qubits: 20
+
+7. **IonQ Quantum Computer** (2019)
+   - Manufacturer: IonQ
+   - Qubits: 160
+
+8. **Honeywell H0** (2020)
+   - Manufacturer: Honeywell
+   - Qubits: 6
+
+9. **Jiuzhang Photonic Quantum Computer** (2020)
+   - Manufacturer: University of Science and Technology of China
+   - Qubits: 76
+
+10. **IBM Eagle Processor** (2021)
+    - Manufacturer: IBM
+    - Qubits: 127
+
+11. **Zuchongzhi 2.1** (2021)
+    - Manufacturer: University of Science and Technology of China
+    - Qubits: 66
+
+12. **Google Sycamore** (2021, updated)
+    - Manufacturer: Google
+    - Qubits: 53
+
+13. **Rigetti Aspen-M** (2021)
+    - Manufacturer: Rigetti Computing
+    - Qubits: 80
+
+14. **IonQ Aria** (2021)
+    - Manufacturer: IonQ
+    - Qubits: 32
+
+15. **Quantinuum H1-1** (2021)
+    - Manufacturer: Quantinuum (formed by the merger of Honeywell Quantum Solutions and Cambridge Quantum)
+    - Qubits: 20
+
+16. **NVIDIA DGX Quantum** (2023)
+    - Manufacturer: NVIDIA
+    - Qubits: 8
+
+17. **IBM Osprey Processor** (2023)
+    - Manufacturer: IBM
+    - Qubits: 433
+
 ## Disclaimer
 This material is for educational purposes only.
