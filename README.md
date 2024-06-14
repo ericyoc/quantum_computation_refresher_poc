@@ -46,45 +46,79 @@ By the end of this refresher, you will be able to:
    - Implementing quantum circuits using Cirq
    - Quantum simulation
 
-## Connections Among the Quantum Computing Concepts
+## Connecting Quantum Computing Concepts
 
-Quantum computing involves a wide range of interconnected concepts, from mathematical foundations to quantum gates and circuit applications. 
+1. **Imaginary Numbers** are the building blocks of **Complex Numbers**, which are a combination of real and imaginary numbers in the form a + bi.
 
-Here's an overview of how these concepts are related:
+2. **Complex Numbers** enable various **Operations**, such as addition and multiplication, which follow specific rules in the complex domain.
 
-1. **Complex Numbers and Imaginary Numbers**: Imaginary numbers, denoted by 'i', are the square root of -1. Complex numbers are a combination of real and imaginary numbers, written in the form a + bi. These form the foundation for representing quantum states.
+3. **Operations on Complex Numbers** lead to the concept of **Complex Conjugate**, where the imaginary part of a complex number is negated.
 
-2. **Operations on Complex Numbers**: Addition and multiplication of complex numbers follow specific rules, enabling mathematical manipulations in quantum computing.
+4. **Complex Numbers** can be represented on the **Complex Number Plane**, with the real part on the x-axis and the imaginary part on the y-axis.
 
-3. **Complex Conjugate**: The complex conjugate of a complex number is obtained by negating its imaginary part. It plays a role in quantum operations and matrix representations.
+5. **Complex Numbers on the Number Plane** can be expressed in **Polar Form**, which represents a complex number using its magnitude and angle.
 
-4. **Complex Numbers on the Number Plane**: Complex numbers can be visualized on a 2D plane, with the real part on the x-axis and the imaginary part on the y-axis. This representation helps in understanding quantum states geometrically.
+6. **Polar Form of Complex Number** is related to the **Exponential Form of Complex Number** through Euler's formula, which connects exponential functions with trigonometric functions.
 
-5. **Polar and Exponential Forms**: Complex numbers can be expressed in polar form (magnitude and angle) or exponential form (using Euler's formula). These forms are useful in representing quantum states and gates.
+7. **Complex Numbers** are used to construct **Matrices**, which are rectangular arrays of numbers used to represent linear transformations and quantum gates.
 
-6. **Matrices and Operations**: Matrices are rectangular arrays of numbers. In quantum computing, matrices represent quantum gates and operations. Matrix addition, scalar multiplication, and dot product multiplication are fundamental operations.
+8. **Matrices** support various **Operations**, such as addition, scalar multiplication, and multiplication using the dot product.
 
-7. **Special Matrices**: Identity matrix (diagonal matrix with 1s), inverse matrix (matrix that, when multiplied with the original matrix, yields the identity matrix), and column vectors are important in quantum computing.
+9. **Operations on Matrices** introduce special matrices, such as the **Identity Matrix**, which has 1s on the main diagonal and 0s elsewhere, and serves as the multiplicative identity.
 
-8. **Complex Conjugate and Transpose of a Matrix**: The complex conjugate of a matrix negates the imaginary parts of its elements. The transpose interchanges the rows and columns. These operations are used in defining quantum gates and states.
+10. The **Identity Matrix** is used to define the **Inverse Matrix**, which, when multiplied with the original matrix, yields the identity matrix.
 
-9. **Unitary and Hermitian Matrices**: Unitary matrices have their inverse equal to their conjugate transpose. Hermitian matrices are equal to their own conjugate transpose. These matrices represent valid quantum operations.
+11. **Matrices** can also be represented as **Column Vectors**, which are matrices with a single column.
 
-10. **Eigenvectors and Eigenvalues**: Eigenvectors are vectors that, when acted upon by a matrix, yield a scalar multiple of themselves. The scalar multiplier is the eigenvalue. These concepts are crucial in understanding quantum measurement.
+12. The **Complex Conjugate** operation can be applied to a matrix, resulting in the **Complex Conjugate of a Matrix**, where the imaginary parts of the matrix elements are negated.
 
-11. **Qubits and Dirac Notation**: Qubits are the fundamental units of quantum information. Dirac notation (ket |⟩ for states, bra ⟨| for conjugate transpose) is used to represent qubit states.
+13. The **Transpose Matrix** is obtained by interchanging the rows and columns of a matrix.
 
-12. **Superposition and Measurement**: Qubits can exist in a superposition of multiple states. Measurement collapses the superposition into a definite state, with probabilities determined by the amplitudes of the states.
+14. A **Unitary Matrix** is a matrix whose inverse is equal to its complex conjugate transpose, ensuring that it represents a valid quantum operation.
 
-13. **Bloch Sphere**: The Bloch sphere is a geometric representation of a single qubit state, with points on the surface corresponding to pure states and points inside representing mixed states.
+15. A **Hermitian Matrix** is equal to its own complex conjugate transpose and has real eigenvalues.
 
-14. **Quantum Gates**: Quantum gates, such as X, Y, Z, Hadamard, and phase gates (S and T), are unitary operations applied to qubits. They manipulate the qubit states and introduce relative phases while discarding global phases.
+16. **Eigenvectors and Eigenvalues** are concepts associated with matrices, where an eigenvector, when acted upon by a matrix, yields a scalar multiple of itself, with the scalar being the eigenvalue.
 
-15. **Multiple Qubits and Entanglement**: Multiple qubits are combined using the tensor product. Controlled gates (CNOT, Toffoli) and entanglement (e.g., Bell states) are fundamental concepts in multi-qubit systems.
+17. **Matrices** are used to represent **Single Qubits in Dirac Notation**, where a qubit state is described using ket notation |⟩.
 
-16. **Quantum Algorithms and Applications**: Quantum circuits, composed of quantum gates, are used to implement quantum algorithms. Phase kickback and superdense coding are examples of quantum phenomena utilized in algorithms. Quantum circuits can also be used to perform classical logical operations.
+18. **Single Qubits** can exist in a **Superposition** of multiple states, allowing them to represent a linear combination of basis states.
 
-Understanding these connections is essential for designing and analyzing quantum circuits and algorithms. The mathematical foundations, qubit representations, quantum gates, and multi-qubit concepts together form the building blocks of quantum computing applications.
+19. **Measurement of a Quantum System** collapses the superposition of a qubit into a definite state, with probabilities determined by the amplitudes of the states.
+
+20. The **Probability of Measuring a Qubit** in a particular state is related to the amplitudes of the qubit's superposition.
+
+21. **Matrix Notation** can be converted into **Dirac Notation** to represent qubit states and operations.
+
+22. The **Bloch Sphere** is a geometric representation of a single qubit state, with points on the surface corresponding to pure states and points inside representing mixed states.
+
+23. **Qubit Gates**, such as X, Y, and Z gates, are unitary operations that manipulate the qubit states on the Bloch Sphere.
+
+24. When applying quantum gates, the **Global Phase** can be discarded, and only the **Relative Phase** between qubit states is considered.
+
+25. The **Hadamard Gate** is a special qubit gate that creates an equal superposition of basis states.
+
+26. **Phase Gates**, such as the S and T gates, introduce phase shifts to qubit states.
+
+27. The **Inverse of Phase Gates** can be applied to cancel out the phase shifts introduced by the original phase gates.
+
+28. **Multiple Qubits** can be combined using the **Tensor Product**, allowing for the representation of multi-qubit states.
+
+29. **Multiple Qubit Gates**, such as CNOT, Toffoli, and Controlled Gates, operate on multiple qubits simultaneously, enabling entanglement and conditional operations.
+
+30. **Entanglement** is a quantum phenomenon where multiple qubits become correlated, such that the state of one qubit cannot be described independently of the others.
+
+31. **Two Qubit Bell States** are specific entangled states that form the basis for quantum communication and cryptography protocols.
+
+32. **Phase Kickback** is a quantum phenomenon where the phase of a controlled qubit is kicked back to the control qubit, enabling certain quantum algorithms.
+
+33. **Superdense Coding** is a quantum communication protocol that leverages entanglement to transmit two classical bits of information using a single qubit.
+
+34. **Classical Logical Operations**, such as NOT, AND, OR, and XOR, can be implemented using quantum gates in a quantum circuit.
+
+35. **Quantum Circuits** are composed of quantum gates and measurements, allowing for the implementation of **Quantum Algorithms** and **Applications**, such as quantum search, optimization, and machine learning.
+
+By understanding how each concept builds upon the previous ones, you can gain a comprehensive understanding of the foundations and applications of quantum computing.
 
 ## Refresher Materials
 - Jupyter notebook with code examples
