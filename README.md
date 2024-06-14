@@ -135,6 +135,17 @@ By understanding how each concept builds upon the previous ones, you can gain a 
 - Quantum Computation and Theory [YouTube] https://www.youtube.com/watch?v=tsbCSkvHhMo
 - Quantum Mechanices: Mathematical Basis [YouTube] https://www.youtube.com/playlist?list=PLdgVBOaXkb9Bv466YnyxslT4gIlSZdtjw
 - The Map of Quantum Computing - Quantum Computing Explained [YouTube] https://www.youtube.com/watch?v=-UlxHPIEVqA
+- Why qubits need so much storage space https://quantumcomputing.stackexchang
+- Storage space of the world https://www.quora.com/Whats-the-world
+- Quantum Algorithms https://en.wikipedia.org/wiki/Quantum
+- Models of Quantum Computing https://quantumcomputing.stackexchang
+- Topological Quantum Computing https://www.quantamagazine.org/major
+- Optical Lattice https://www.mewburn.com/news-insights
+- ultracold atom quantum simulator https://arxiv.org/abs/1901.01146
+- Linear optical quantum computing (Xanadu) https://arstechnica.com/science/2021/ and https://arstechnica.com/science/2020/
+- Quantum computing overview https://cen.acs.org/materials/electro
+- Linear photonic qubits Fault-tolerant quantum computing with...  https://arstechnica.com/science/2021/
+- Google Roadmap https://blog.google/technology/ai/unv
 
 ## Disclaimer
 This material is for educational purposes only.
